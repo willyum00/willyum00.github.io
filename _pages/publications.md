@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Currently working on paper for Conference in June 2024. Nothing to see here yet...
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
