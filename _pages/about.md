@@ -16,4 +16,4 @@ I am a research assistant at Visual Intelligence Studio under Dr. Yang Cai. My r
 
 Outside of research, I do street art, photography, powerlifting, and boxing. 
 
-Ask me about: {Neurotechnology, Conlangs, Spongebob Trivia}
+Ask me about: {Neurotechnology, Art History, Spongebob Trivia}
