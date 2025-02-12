@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-As of Fall 2024, I am a first year Masters student in the [Electrical and Computer Engineering Department](https://www.ece.ucsd.edu/) at [UCSD](https://ucsd.edu), with a focus in [Intelligent Systems, Robotics & Control.](https://www.ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted)
+I am a first year Masters student in the Electrical and Computer Engineering Department at UCSD, with a focus in [Intelligent Systems, Robotics & Control.](https://www.ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted)
 
-Previously, I was a research assistant at Visual Intelligence Studio under Dr. Yang Cai. My research  focused on HCI and computer vision for medical training. I am also interested in computer vision methods for **contextual computing** and **interactive robotics** for **accessibility**. More broadly, I am interested in **computer vision applications** in different fields, which can range from medical imaging to sustainability and conservation. 
+Previously, I was a research assistant at Visual Intelligence Studio under Dr. Yang Cai. My research  focused on HCI and computer vision for medical training. There, I developed a skillset in prototyping and working with novel technology. I am also interested in computer vision methods for **contextual computing** and **interactive robotics.** 
 
-Outside of research, I do street art, photography, powerlifting, and boxing. 
+Outside of research, I do street art, theater, and powerlifting.  
 
-Ask me about: {Neurotechnology, Art History, Spongebob Trivia}
+Ask me about: {Neurotechnology, [What music I'm listening to](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk?si=oqcgMjZzSRezizRWMxjlgQ), Spongebob Trivia}
 
 Current movie recommendation: {Cemetery Man (Dellamorte Dellamore)}
