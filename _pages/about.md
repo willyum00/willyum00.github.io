@@ -13,7 +13,7 @@ I am a first year Masters student in the Electrical and Computer Engineering Dep
 
 Previously, I was a research assistant at Visual Intelligence Studio under Dr. Yang Cai. My research focused on HCI and computer vision for medical training. There, I developed a skillset in prototyping, 3D vision, and working with novel technologies. 
 
-Outside of research, I served two years as the vice-president of **[Triton Neurotech]**(https://sites.google.com/ucsd.edu/triton-neurotech), building projects at the intersection of engineering and neuroscience. 
+Outside of research, I served two years as the vice-president of **[Triton Neurotech](https://sites.google.com/ucsd.edu/triton-neurotech)**, building projects at the intersection of engineering and neuroscience. 
 
 I do street art, theater, and powerlifting.  
 
