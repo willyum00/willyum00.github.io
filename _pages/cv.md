@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV and Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Potential Employers:
+[Download Resume here](https://willyum00.github.io/files/William_Zhang_Resume_2025.pdf)
+
 [Download CV here](https://willyum00.github.io/files/William_Zhang_2024_CV.pdf)
 
-Potential Employers:
-[Download Resume here](willyum00.github.io\files\William_Zhang_Resume_2025.pdf)
+
