@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my in-progress website faciendum!
+Welcome to my in-progress-under-construction-unfinished-never-perfected website!
 
 I am a first year Masters student in the Electrical and Computer Engineering Department at UCSD, with a focus in [Intelligent Systems, Robotics & Control.](https://www.ece.ucsd.edu/faculty-research/ece-research-areas/intelligent-systems-robotics-control-impacted)
 
