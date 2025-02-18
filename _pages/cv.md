@@ -10,3 +10,6 @@ redirect_from:
 {% include base_path %}
 
 [Download CV here](https://willyum00.github.io/files/William_Zhang_2024_CV.pdf)
+
+Potential Employers:
+[Download Resume here](willyum00.github.io\files\William_Zhang_Resume_2025.pdf)
