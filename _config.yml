@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "William Zhang"
+title                    : "William D. Zhang"
 title_separator          : "-"
-name                     : &name "William Zhang"
+name                     : &name "William D. Zhang"
 description              : &description "UCSD EE"
 url                      : https://willyum00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "William Zhang"
+  name             : "William D. Zhang"
   avatar           : "profile.png"
-  bio              : "First year Masters Student interested in robotics optimization research"
+  bio              : "First year Masters Student starting his journey in robotics. Burgeoning powerlifter, I squat 3 plates."
   location         : "San Diego"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
